@@ -77,10 +77,3 @@ Les deux formulations permettent d’obtenir des solutions optimales, mais leurs
 
 👉 Une formulation plus forte théoriquement n’est pas toujours la plus performante en pratique.
 
----
-
-## 📚 Références
-
-- TSPLib : https://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
-- Miller, Tucker, Zemlin (1960)
-- Sarin, Sherali, Bhootra (2005)
